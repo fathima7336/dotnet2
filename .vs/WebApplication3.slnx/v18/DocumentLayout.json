@@ -1,0 +1,346 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Reen\\source\\repos\\WebApplication3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Reen\\source\\repos\\WebApplication9\\WebApplication9\\staffviewprofile1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED4927-F6A7-4E82-B1B5-17B3C4499B1A}|WebApplication3\\WebApplication3.csproj|c:\\users\\reen\\source\\repos\\webapplication3\\webapplication3\\file_upload.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0EED4927-F6A7-4E82-B1B5-17B3C4499B1A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\file_upload.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED4927-F6A7-4E82-B1B5-17B3C4499B1A}|WebApplication3\\WebApplication3.csproj|C:\\Users\\Reen\\source\\repos\\WebApplication3\\webapplication3\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EED4927-F6A7-4E82-B1B5-17B3C4499B1A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED4927-F6A7-4E82-B1B5-17B3C4499B1A}|WebApplication3\\WebApplication3.csproj|C:\\Users\\Reen\\source\\repos\\WebApplication3\\webapplication3\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0EED4927-F6A7-4E82-B1B5-17B3C4499B1A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED4927-F6A7-4E82-B1B5-17B3C4499B1A}|WebApplication3\\WebApplication3.csproj|C:\\Users\\Reen\\source\\repos\\WebApplication3\\webapplication3\\viewproduct.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EED4927-F6A7-4E82-B1B5-17B3C4499B1A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\viewproduct.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED4927-F6A7-4E82-B1B5-17B3C4499B1A}|WebApplication3\\WebApplication3.csproj|C:\\Users\\Reen\\source\\repos\\WebApplication3\\webapplication3\\viewproduct.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0EED4927-F6A7-4E82-B1B5-17B3C4499B1A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\viewproduct.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED4927-F6A7-4E82-B1B5-17B3C4499B1A}|WebApplication3\\WebApplication3.csproj|C:\\Users\\Reen\\source\\repos\\WebApplication3\\webapplication3\\stockregistration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EED4927-F6A7-4E82-B1B5-17B3C4499B1A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\stockregistration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED4927-F6A7-4E82-B1B5-17B3C4499B1A}|WebApplication3\\WebApplication3.csproj|C:\\Users\\Reen\\source\\repos\\WebApplication3\\webapplication3\\stockregistration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0EED4927-F6A7-4E82-B1B5-17B3C4499B1A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\stockregistration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED4927-F6A7-4E82-B1B5-17B3C4499B1A}|WebApplication3\\WebApplication3.csproj|C:\\Users\\Reen\\source\\repos\\WebApplication3\\webapplication3\\productregistration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EED4927-F6A7-4E82-B1B5-17B3C4499B1A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\productregistration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED4927-F6A7-4E82-B1B5-17B3C4499B1A}|WebApplication3\\WebApplication3.csproj|C:\\Users\\Reen\\source\\repos\\WebApplication3\\webapplication3\\productregistration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0EED4927-F6A7-4E82-B1B5-17B3C4499B1A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\productregistration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED4927-F6A7-4E82-B1B5-17B3C4499B1A}|WebApplication3\\WebApplication3.csproj|C:\\Users\\Reen\\source\\repos\\WebApplication3\\webapplication3\\registeration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EED4927-F6A7-4E82-B1B5-17B3C4499B1A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\registeration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED4927-F6A7-4E82-B1B5-17B3C4499B1A}|WebApplication3\\WebApplication3.csproj|C:\\Users\\Reen\\source\\repos\\WebApplication3\\webapplication3\\view_registration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EED4927-F6A7-4E82-B1B5-17B3C4499B1A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\view_registration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED4927-F6A7-4E82-B1B5-17B3C4499B1A}|WebApplication3\\WebApplication3.csproj|C:\\Users\\Reen\\source\\repos\\WebApplication3\\webapplication3\\view_registration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0EED4927-F6A7-4E82-B1B5-17B3C4499B1A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\view_registration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED4927-F6A7-4E82-B1B5-17B3C4499B1A}|WebApplication3\\WebApplication3.csproj|C:\\Users\\Reen\\source\\repos\\WebApplication3\\webapplication3\\registeration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0EED4927-F6A7-4E82-B1B5-17B3C4499B1A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\registeration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Reen\\source\\repos\\WebApplication2\\WebApplication2\\registration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75894CD0-0B13-45A5-9D5E-A8DAAF5F296E}|WebApplication1\\WebApplication1.csproj|C:\\Users\\Reen\\source\\repos\\WebApplication3\\webapplication1\\registration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75894CD0-0B13-45A5-9D5E-A8DAAF5F296E}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\registration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75894CD0-0B13-45A5-9D5E-A8DAAF5F296E}|WebApplication1\\WebApplication1.csproj|C:\\Users\\Reen\\source\\repos\\WebApplication3\\webapplication1\\registration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{75894CD0-0B13-45A5-9D5E-A8DAAF5F296E}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\registration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75894CD0-0B13-45A5-9D5E-A8DAAF5F296E}|WebApplication1\\WebApplication1.csproj|C:\\Users\\Reen\\source\\repos\\WebApplication3\\webapplication1\\dboperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75894CD0-0B13-45A5-9D5E-A8DAAF5F296E}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dboperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED4927-F6A7-4E82-B1B5-17B3C4499B1A}|WebApplication3\\WebApplication3.csproj|C:\\Users\\Reen\\source\\repos\\WebApplication3\\webapplication3\\adminhome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0EED4927-F6A7-4E82-B1B5-17B3C4499B1A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\adminhome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EED4927-F6A7-4E82-B1B5-17B3C4499B1A}|WebApplication3\\WebApplication3.csproj|C:\\Users\\Reen\\source\\repos\\WebApplication3\\webapplication3\\stockregistration.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EED4927-F6A7-4E82-B1B5-17B3C4499B1A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\stockregistration.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "registeration.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Reen\\source\\repos\\WebApplication3\\WebApplication3\\registeration.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\registeration.aspx.cs",
+              "ToolTip": "C:\\Users\\Reen\\source\\repos\\WebApplication3\\WebApplication3\\registeration.aspx.cs",
+              "RelativeToolTip": "WebApplication3\\registeration.aspx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T07:00:55.68Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "login.aspx",
+              "DocumentMoniker": "C:\\Users\\Reen\\source\\repos\\WebApplication3\\WebApplication3\\login.aspx",
+              "RelativeDocumentMoniker": "WebApplication3\\login.aspx",
+              "ToolTip": "C:\\Users\\Reen\\source\\repos\\WebApplication3\\WebApplication3\\login.aspx",
+              "RelativeToolTip": "WebApplication3\\login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-09-22T06:31:46.896Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "staffviewprofile1.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Reen\\source\\repos\\WebApplication9\\WebApplication9\\staffviewprofile1.aspx.cs",
+              "RelativeDocumentMoniker": "..\\WebApplication9\\WebApplication9\\staffviewprofile1.aspx.cs",
+              "ToolTip": "C:\\Users\\Reen\\source\\repos\\WebApplication9\\WebApplication9\\staffviewprofile1.aspx.cs",
+              "RelativeToolTip": "..\\WebApplication9\\WebApplication9\\staffviewprofile1.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T09:25:11.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "file_upload.aspx",
+              "DocumentMoniker": "C:\\Users\\Reen\\source\\repos\\WebApplication3\\WebApplication3\\file_upload.aspx",
+              "RelativeDocumentMoniker": "WebApplication3\\file_upload.aspx",
+              "ToolTip": "C:\\Users\\Reen\\source\\repos\\WebApplication3\\WebApplication3\\file_upload.aspx",
+              "RelativeToolTip": "WebApplication3\\file_upload.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-09-24T08:41:51.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Reen\\source\\repos\\WebApplication3\\WebApplication3\\login.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\login.aspx.cs",
+              "ToolTip": "C:\\Users\\Reen\\source\\repos\\WebApplication3\\WebApplication3\\login.aspx.cs",
+              "RelativeToolTip": "WebApplication3\\login.aspx.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T06:32:42.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "viewproduct.aspx",
+              "DocumentMoniker": "C:\\Users\\Reen\\source\\repos\\WebApplication3\\WebApplication3\\viewproduct.aspx",
+              "RelativeDocumentMoniker": "WebApplication3\\viewproduct.aspx",
+              "ToolTip": "C:\\Users\\Reen\\source\\repos\\WebApplication3\\WebApplication3\\viewproduct.aspx",
+              "RelativeToolTip": "WebApplication3\\viewproduct.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-09-24T10:37:19.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "viewproduct.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Reen\\source\\repos\\WebApplication3\\WebApplication3\\viewproduct.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\viewproduct.aspx.cs",
+              "ToolTip": "C:\\Users\\Reen\\source\\repos\\WebApplication3\\WebApplication3\\viewproduct.aspx.cs*",
+              "RelativeToolTip": "WebApplication3\\viewproduct.aspx.cs*",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAowHkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T10:37:28.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "stockregistration.aspx",
+              "DocumentMoniker": "C:\\Users\\Reen\\source\\repos\\WebApplication3\\WebApplication3\\stockregistration.aspx",
+              "RelativeDocumentMoniker": "WebApplication3\\stockregistration.aspx",
+              "ToolTip": "C:\\Users\\Reen\\source\\repos\\WebApplication3\\WebApplication3\\stockregistration.aspx",
+              "RelativeToolTip": "WebApplication3\\stockregistration.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-09-18T07:02:32.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "productregistration.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Reen\\source\\repos\\WebApplication3\\WebApplication3\\productregistration.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\productregistration.aspx.cs",
+              "ToolTip": "C:\\Users\\Reen\\source\\repos\\WebApplication3\\WebApplication3\\productregistration.aspx.cs",
+              "RelativeToolTip": "WebApplication3\\productregistration.aspx.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAnwDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T06:17:27.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "stockregistration.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Reen\\source\\repos\\WebApplication3\\WebApplication3\\stockregistration.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\stockregistration.aspx.cs",
+              "ToolTip": "C:\\Users\\Reen\\source\\repos\\WebApplication3\\WebApplication3\\stockregistration.aspx.cs",
+              "RelativeToolTip": "WebApplication3\\stockregistration.aspx.cs",
+              "ViewState": "AgIAAEMAAAAAb5YnkekuwFMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T07:15:20.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "productregistration.aspx",
+              "DocumentMoniker": "C:\\Users\\Reen\\source\\repos\\WebApplication3\\WebApplication3\\productregistration.aspx",
+              "RelativeDocumentMoniker": "WebApplication3\\productregistration.aspx",
+              "ToolTip": "C:\\Users\\Reen\\source\\repos\\WebApplication3\\WebApplication3\\productregistration.aspx",
+              "RelativeToolTip": "WebApplication3\\productregistration.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-09-22T06:13:02.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "view_registration.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Reen\\source\\repos\\WebApplication3\\WebApplication3\\view_registration.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\view_registration.aspx.cs",
+              "ToolTip": "C:\\Users\\Reen\\source\\repos\\WebApplication3\\WebApplication3\\view_registration.aspx.cs",
+              "RelativeToolTip": "WebApplication3\\view_registration.aspx.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAAAKgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T07:03:45.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "view_registration.aspx",
+              "DocumentMoniker": "C:\\Users\\Reen\\source\\repos\\WebApplication3\\WebApplication3\\view_registration.aspx",
+              "RelativeDocumentMoniker": "WebApplication3\\view_registration.aspx",
+              "ToolTip": "C:\\Users\\Reen\\source\\repos\\WebApplication3\\WebApplication3\\view_registration.aspx",
+              "RelativeToolTip": "WebApplication3\\view_registration.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-09-22T09:24:25.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "registeration.aspx",
+              "DocumentMoniker": "C:\\Users\\Reen\\source\\repos\\WebApplication3\\WebApplication3\\registeration.aspx",
+              "RelativeDocumentMoniker": "WebApplication3\\registeration.aspx",
+              "ToolTip": "C:\\Users\\Reen\\source\\repos\\WebApplication3\\WebApplication3\\registeration.aspx",
+              "RelativeToolTip": "WebApplication3\\registeration.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-09-18T07:00:54.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "registration.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Reen\\source\\repos\\WebApplication2\\WebApplication2\\registration.aspx.cs",
+              "RelativeDocumentMoniker": "..\\WebApplication2\\WebApplication2\\registration.aspx.cs",
+              "ToolTip": "C:\\Users\\Reen\\source\\repos\\WebApplication2\\WebApplication2\\registration.aspx.cs",
+              "RelativeToolTip": "..\\WebApplication2\\WebApplication2\\registration.aspx.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAkwCwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T07:04:03.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "registration.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Reen\\source\\repos\\WebApplication3\\WebApplication1\\registration.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\registration.aspx.cs",
+              "ToolTip": "C:\\Users\\Reen\\source\\repos\\WebApplication3\\WebApplication1\\registration.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\registration.aspx.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T07:50:59.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "dboperation.cs",
+              "DocumentMoniker": "C:\\Users\\Reen\\source\\repos\\WebApplication3\\WebApplication1\\dboperation.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\dboperation.cs",
+              "ToolTip": "C:\\Users\\Reen\\source\\repos\\WebApplication3\\WebApplication1\\dboperation.cs",
+              "RelativeToolTip": "WebApplication1\\dboperation.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAmwFoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T07:28:32.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "registration.aspx",
+              "DocumentMoniker": "C:\\Users\\Reen\\source\\repos\\WebApplication3\\WebApplication1\\registration.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\registration.aspx",
+              "ToolTip": "C:\\Users\\Reen\\source\\repos\\WebApplication3\\WebApplication1\\registration.aspx",
+              "RelativeToolTip": "WebApplication1\\registration.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-09-22T07:39:20.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdminHome.aspx",
+              "DocumentMoniker": "C:\\Users\\Reen\\source\\repos\\WebApplication3\\WebApplication3\\AdminHome.aspx",
+              "RelativeDocumentMoniker": "WebApplication3\\AdminHome.aspx",
+              "ToolTip": "C:\\Users\\Reen\\source\\repos\\WebApplication3\\WebApplication3\\AdminHome.aspx",
+              "RelativeToolTip": "WebApplication3\\AdminHome.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-09-22T07:07:08.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "stockregistration.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Reen\\source\\repos\\WebApplication3\\WebApplication3\\stockregistration.aspx.designer.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\stockregistration.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\Reen\\source\\repos\\WebApplication3\\WebApplication3\\stockregistration.aspx.designer.cs",
+              "RelativeToolTip": "WebApplication3\\stockregistration.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T07:01:33.074Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
